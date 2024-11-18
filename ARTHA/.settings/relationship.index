@@ -1,0 +1,16 @@
+[ {
+  "baseItem" : {
+    "id" : "_wPRnQKWJEe-M5tSB_RJ2_g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_GycSMKWKEe-M5tSB_RJ2_g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GycSMKWKEe-M5tSB_RJ2_g - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
